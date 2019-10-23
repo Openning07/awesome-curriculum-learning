@@ -29,10 +29,15 @@ Markdown format:
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
   - Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. *ICML 2009*
 
-### 2019
+### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
   - Weinshall, Daphna and Cohen, Gad and Amir, Dan. *ICML 2018*
+
+### 2019
+- Dynamic Curriculum Learning for Imbalanced Data Classification
+  [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)
+  - Wang, Yiru and Gan, Weihao and Wu, Wei and Yan, Junjie. *ICCV 2019*
 
 - On The Power of Curriculum Learning in Training Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1904.03626.pdf)
