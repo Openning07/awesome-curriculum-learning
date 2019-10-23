@@ -23,9 +23,6 @@ Markdown format:
 ```
 
 ## Table of Contents
-- [Computer Vision (CV)](#computer-vision)
-  - [Survey](#survey)
-  - [Image Representation Learning](#image-representation-learning)
 
 ### 2015
 - Unsupervised Visual Representation Learning by Context Prediction.
