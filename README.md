@@ -16,7 +16,7 @@ Please help contribute this list by contacting [me](https://github.com/Openning0
 
 Markdown format:
 ```markdown
-- Paper Name. 
+- Paper Name.
   [[pdf]](link) 
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
