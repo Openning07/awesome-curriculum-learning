@@ -6,6 +6,9 @@ A curated list of awesome Curriculum Learning resources. Inspired by [awesome-de
 #### Why Curriculum Learning?
 Self-Supervised Learning has become an exciting direction in AI community. 
   - Bengio: "..." (ICML 2009)
+  
+Biological inspired learning scheme.
+  - Learn the concepts by increasing complexity, in order to allow learner to exploit previously learned concepts and thus ease the abstraction of new ones.
 
 ## Contributing
 <p align="center">
@@ -19,6 +22,7 @@ Markdown format:
 - Paper Name.
   [[pdf]](link) 
   [[code]](link)
+  - Key Contribution(s)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 
@@ -27,6 +31,7 @@ Markdown format:
 ### 2009
 - Curriculum Learning.
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
+  - Rank the weights of the training examples, and use the rank to guide the order of presentation of examples to the learner.
   - Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. *ICML 2009*
 
 ### 2015
@@ -36,12 +41,13 @@ Markdown format:
 
 ### 2017
 - Self-Paced Learning: An Implicit Regularization Perspective.
-  [[pdf]]()
+  [[pdf]](https://www.researchgate.net/profile/Jian_Liang25/publication/303750070_Self-Paced_Learning_an_Implicit_Regularization_Perspective/links/5858e75b08ae3852d25555e3/Self-Paced-Learning-an-Implicit-Regularization-Perspective.pdf)
   - Fan, Yanbo and He, Ran and Liang, Jian and Hu, Baogang. *AAAI 2017*
 
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
+  - Sort the training examples based on the performance of a pre-trained network on a larger dataset, and then finetune the model to the dataset at hand.
   - Weinshall, Daphna and Cohen, Gad and Amir, Dan. *ICML 2018*
 
 - Self-Paced Deep Learning for Weakly Supervised Object Detection.
