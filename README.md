@@ -53,6 +53,10 @@ Markdown format:
 - Self-Paced Deep Learning for Weakly Supervised Object Detection.
   [[pdf]](https://arxiv.org/pdf/1605.07651.pdf)
   - Sangineto, Enver and Nabi, Moin and Culibrk, Dubravko and Sebe, Nicu. *TPAMI 2018*
+  
+- MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1712.05055.pdf) [[code]](https://github.com/google/mentornet)
+  - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 
 - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
   [[pdf]](https://arxiv.org/pdf/1808.01097.pdf) [[code]](https://github.com/MalongTech/research-curriculumnet)
