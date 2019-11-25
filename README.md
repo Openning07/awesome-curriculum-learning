@@ -43,6 +43,10 @@ Markdown format:
 - Self-Paced Learning: An Implicit Regularization Perspective.
   [[pdf]](https://www.researchgate.net/profile/Jian_Liang25/publication/303750070_Self-Paced_Learning_an_Implicit_Regularization_Perspective/links/5858e75b08ae3852d25555e3/Self-Paced-Learning-an-Implicit-Regularization-Perspective.pdf)
   - Fan, Yanbo and He, Ran and Liang, Jian and Hu, Baogang. *AAAI 2017*
+  
+- Curriculum Dropout.
+  [[pdf]](http://www.vision.jhu.edu/assets/MorerioICCV17.pdf) [[code]](https://github.com/pmorerio/curriculum-dropout)
+  - Morerio, Pietro and Cavazza, Jacopo and Volpi, Riccardo and Vidal, Ren\'e and Murino, Vittorio. *ICCV 2017*
 
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
@@ -55,7 +59,7 @@ Markdown format:
   - Sangineto, Enver and Nabi, Moin and Culibrk, Dubravko and Sebe, Nicu. *TPAMI 2018*
   
 - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/1712.05055.pdf) [[code]](https://github.com/google/mentornet)
+  [[pdf]](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf) [[code]](https://github.com/google/mentornet)
   - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 <p align="center">
   <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet">
