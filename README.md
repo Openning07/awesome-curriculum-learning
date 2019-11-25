@@ -42,7 +42,7 @@ Markdown format:
 ### 2017
 - Self-Paced Learning: An Implicit Regularization Perspective.
   [[pdf]](https://www.researchgate.net/profile/Jian_Liang25/publication/303750070_Self-Paced_Learning_an_Implicit_Regularization_Perspective/links/5858e75b08ae3852d25555e3/Self-Paced-Learning-an-Implicit-Regularization-Perspective.pdf)
-  - Fan, Yanbo and He, Ran and Liang, Jian and Hu, Baogang. *AAAI 2017*
+  - Fan, Yanbo and He, Ran and Liang, Jian and Hu, Bao-Gang. *AAAI 2017*
   
 - Curriculum Dropout.
   [[pdf]](http://www.vision.jhu.edu/assets/MorerioICCV17.pdf) [[code]](https://github.com/pmorerio/curriculum-dropout)
