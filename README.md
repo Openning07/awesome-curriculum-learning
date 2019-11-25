@@ -54,6 +54,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1605.07651.pdf)
   - Sangineto, Enver and Nabi, Moin and Culibrk, Dubravko and Sebe, Nicu. *TPAMI 2018*
 
+- CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
+  [[pdf]](https://arxiv.org/pdf/1808.01097.pdf) [[code]](https://github.com/MalongTech/research-curriculumnet)
+  - Guo, Sheng and Huang, Weilin and Zhang, Haozhi and Zhuang, Chenfan and Dong, Dengke and Scott, Matthew and Huang, Dinglong. *ECCV 2018*
+
 - Unsupervised Feature Selection by Self-Paced Learning Regularization.
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302782)
   - Zheng, Wei and Zhu, Xiaofeng and Wen, Guoqiu and Zhu, Yonghua and Yu, Hao and Gan, Jiangzhang. *Pattern Recognition Letters 2018*
