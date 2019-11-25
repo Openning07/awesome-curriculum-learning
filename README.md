@@ -56,10 +56,10 @@ Markdown format:
   
 - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1712.05055.pdf) [[code]](https://github.com/google/mentornet)
+  - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 <p align="center">
   <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet">
 </p>
-  - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 
 - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
   [[pdf]](https://arxiv.org/pdf/1808.01097.pdf) [[code]](https://github.com/MalongTech/research-curriculumnet)
