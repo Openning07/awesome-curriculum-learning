@@ -85,3 +85,8 @@ Markdown format:
 - Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf)
   - Ghasedi, Kamran and Wang, Xiaoqian and Deng, Cheng and Huang, Heng. *CVPR 2019*
+  
+### 2020
+- BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
+  [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
+  - Boyan, Zhou and Quan, Cui and Xiu-Shen, Wei and Zhao-Min, Chen. *CVPR 2020*
