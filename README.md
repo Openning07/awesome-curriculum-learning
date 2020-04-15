@@ -11,9 +11,6 @@ Biological inspired learning scheme.
   - Learn the concepts by increasing complexity, in order to allow learner to exploit previously learned concepts and thus ease the abstraction of new ones.
 
 ## Contributing
-<p align="center">
-  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
-</p>
 
 Please help contribute this list by contacting [me](https://github.com/Openning07/awesome-curriculum-learning) or add [pull request](https://github.com/Openning07/awesome-curriculum-learning/pulls)
 
@@ -92,5 +89,5 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Boyan, Zhou and Quan, Cui and Xiu-Shen, Wei and Zhao-Min, Chen. *CVPR 2020*
 <p align="center">
-  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0">
+  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN">
 </p>
