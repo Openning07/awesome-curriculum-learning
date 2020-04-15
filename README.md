@@ -51,7 +51,8 @@ Markdown format:
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
-  - Sort the training examples based on the performance of a pre-trained network on a larger dataset, and then finetune the model to the dataset at hand.
+  - Sort the training examples based on the *performance* of a pre-trained network on a larger dataset,
+    and then finetune the model to the dataset at hand.
   - Weinshall, Daphna and Cohen, Gad and Amir, Dan. *ICML 2018*
 
 - Self-Paced Deep Learning for Weakly Supervised Object Detection.
@@ -90,3 +91,6 @@ Markdown format:
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Boyan, Zhou and Quan, Cui and Xiu-Shen, Wei and Zhao-Min, Chen. *CVPR 2020*
+<p align="center">
+  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0">
+</p>
