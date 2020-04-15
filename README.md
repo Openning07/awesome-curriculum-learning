@@ -72,6 +72,10 @@ Markdown format:
   - Zheng, Wei and Zhu, Xiaofeng and Wen, Guoqiu and Zhu, Yonghua and Yu, Hao and Gan, Jiangzhang. *Pattern Recognition Letters 2018*
 
 ### 2019
+- Transferable Curriculum for Weakly-Supervised Domain Adaptation
+  [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL)
+  - Shu, Yang and Cao, Zhangjie and Long, Mingsheng and Wang, Jianmin. *AAAI 2019*
+
 - Dynamic Curriculum Learning for Imbalanced Data Classification.
   [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)
   - Wang, Yiru and Gan, Weihao and Wu, Wei and Yan, Junjie. *ICCV 2019*
@@ -87,7 +91,7 @@ Markdown format:
 ### 2020
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
-  - Boyan, Zhou and Quan, Cui and Xiu-Shen, Wei and Zhao-Min, Chen. *CVPR 2020*
+  - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
 <p align="center">
   <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN">
 </p>
