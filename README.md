@@ -60,7 +60,7 @@ Markdown format:
   [[pdf]](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf) [[code]](https://github.com/google/mentornet)
   - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 <p align="center">
-  <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet" width="50%">
+  <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet" width="80%">
 </p>
 
 - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
@@ -93,5 +93,5 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
 <p align="center">
-  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="50%">
+  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="80%">
 </p>
