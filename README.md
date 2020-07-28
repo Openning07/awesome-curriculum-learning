@@ -97,8 +97,16 @@ Markdown format:
 <p align="center">
   <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="80%">
 </p>
+
+
+
 - Uncertainty-Aware Curriculum Learning for Neural Machine Translation. [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.620/)
-  - Zhou, Yikai and Yang, Baosong and Wong, Derek F and Wan, Yu and Chao, Lidia S. *ACL 2020*
+  
+- Zhou, Yikai and Yang, Baosong and Wong, Derek F and Wan, Yu and Chao, Lidia S. *ACL 2020*
+  
+  
+  
 - Curriculum Learning for Natural Language Understanding. [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.542/)
+  
   - Benfeng, Xu and Licheng, Zhang and Zhendong, Mao and Quan, Wang and Hongtao, Xie and Yongdong, Zhang. *ACL 2020*
 
