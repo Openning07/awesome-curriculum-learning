@@ -6,7 +6,7 @@ A curated list of awesome Curriculum Learning resources. Inspired by [awesome-de
 #### Why Curriculum Learning?
 Self-Supervised Learning has become an exciting direction in AI community. 
   - Bengio: "..." (ICML 2009)
-  
+
 Biological inspired learning scheme.
   - Learn the concepts by increasing complexity, in order to allow learner to exploit previously learned concepts and thus ease the abstraction of new ones.
 
@@ -71,23 +71,25 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302782)
   - Zheng, Wei and Zhu, Xiaofeng and Wen, Guoqiu and Zhu, Yonghua and Yu, Hao and Gan, Jiangzhang. *Pattern Recognition Letters 2018*
 
+- Curriculum Learning for Natural Answer Generation. [[pdf]](https://www.ijcai.org/Proceedings/2018/0587.pdf)
+  - Cao Liu and Shizhu He and Kang Liu and Jun Zhao, *IJCAI 2018*
+
 ### 2019
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL)
   - Shu, Yang and Cao, Zhangjie and Long, Mingsheng and Wang, Jianmin. *AAAI 2019*
-
 - Dynamic Curriculum Learning for Imbalanced Data Classification.
   [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)
   - Wang, Yiru and Gan, Weihao and Wu, Wei and Yan, Junjie. *ICCV 2019*
-
 - On The Power of Curriculum Learning in Training Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1904.03626.pdf)
   - Hacohen, Guy and Weinshall, Daphna. *ICML 2019*
-
 - Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf)
   - Ghasedi, Kamran and Wang, Xiaoqian and Deng, Cheng and Huang, Heng. *CVPR 2019*
   
+- Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum. [[pdf]](http://papers.nips.cc/paper/9289-data-parameters-a-new-family-of-parameters-for-learning-a-differentiable-curriculum)
+  - Saxena, Shreyas and Tuzel, Oncel and DeCoste, Dennis. *NIPS 2019*
 ### 2020
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
@@ -95,3 +97,12 @@ Markdown format:
 <p align="center">
   <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="80%">
 </p>
+
+- Uncertainty-Aware Curriculum Learning for Neural Machine Translation. [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.620/)
+  
+  - Zhou, Yikai and Yang, Baosong and Wong, Derek F and Wan, Yu and Chao, Lidia S. *ACL 2020*
+  
+- Curriculum Learning for Natural Language Understanding. [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.542/)
+  
+  - Benfeng, Xu and Licheng, Zhang and Zhendong, Mao and Quan, Wang and Hongtao, Xie and Yongdong, Zhang. *ACL 2020*
+
