@@ -45,6 +45,10 @@ Markdown format:
   [[pdf]](http://www.vision.jhu.edu/assets/MorerioICCV17.pdf) [[code]](https://github.com/pmorerio/curriculum-dropout)
   - Morerio, Pietro and Cavazza, Jacopo and Volpi, Riccardo and Vidal, Ren\'e and Murino, Vittorio. *ICCV 2017*
 
+- Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes.
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[code]](https://github.com/YangZhang4065/AdaptationSeg)
+  - Zhang, Yang and David, Philip and Gong, Boqing. *ICCV 2017*
+
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
@@ -80,6 +84,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)
   - Wang, Yiru and Gan, Weihao and Wu, Wei and Yan, Junjie. *ICCV 2019*
 
+- Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sakaridis_Guided_Curriculum_Model_Adaptation_and_Uncertainty-Aware_Evaluation_for_Semantic_Nighttime_ICCV_2019_paper.pdf)
+  - Sakaridis, Christos and Dai, Dengxin and Gool Van Luc. *ICCV 2019*
+
 - On The Power of Curriculum Learning in Training Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1904.03626.pdf)
   - Hacohen, Guy and Weinshall, Daphna. *ICML 2019*
@@ -95,3 +103,8 @@ Markdown format:
 <p align="center">
   <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="80%">
 </p>
+
+- Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
+  [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)
+  - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
+
