@@ -64,7 +64,7 @@ Markdown format:
   [[pdf]](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf) [[code]](https://github.com/google/mentornet)
   - Jiang, Lu and Zhou, Zhengyuan and Leung, Thomas and Li, Li-Jia and Li, Fei-Fei. *ICML 2018*
 <p align="center">
-  <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet" width="65%">
+  <img src="https://github.com/google/mentornet/blob/master/images/overview.png" alt="MentorNet" width="60%">
 </p>
 
 - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
@@ -104,13 +104,13 @@ Markdown format:
   <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="70%">
 </p>
 
-- Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
-  [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)
-  - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
-
 - Open Compound Domain Adaptation.
   [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
-  - Liu, Ziwei and Miao, Zhongqi and Pan, Xingang and Zhan, Xiaohang and Lin, Dahua and Yu, Stella X and Gong, Boqing.
+  - Liu, Ziwei and Miao, Zhongqi and Pan, Xingang and Zhan, Xiaohang and Lin, Dahua and Yu, Stella X and Gong, Boqing. *CVPR 2020*
   <p align="center">
   <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="70%">
 </p>
+
+- Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
+  [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)
+  - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
