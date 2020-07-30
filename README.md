@@ -101,10 +101,16 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
 <p align="center">
-  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="80%">
+  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="70%">
 </p>
 
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)
   - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
 
+- Open Compound Domain Adaptation.
+  [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
+  - Liu, Ziwei and Miao, Zhongqi and Pan, Xingang and Zhan, Xiaohang and Lin, Dahua and Yu, Stella X and Gong, Boqing.
+  <p align="center">
+  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="70%">
+</p>
