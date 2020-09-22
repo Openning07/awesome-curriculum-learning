@@ -28,7 +28,7 @@ Markdown format:
 ### 2009
 - Curriculum Learning.
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
-  - Rank the weights of the training examples, and use the rank to guide the order of presentation of examples to the learner.
+  - "Rank the weights of the training examples, and use the rank to guide the order of presentation of examples to the learner."
   - Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. *ICML 2009*
 
 ### 2015
@@ -52,8 +52,8 @@ Markdown format:
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
-  - Sort the training examples based on the *performance* of a pre-trained network on a larger dataset,
-    and then finetune the model to the dataset at hand.
+  - "Sort the training examples based on the *performance* of a pre-trained network on a larger dataset,
+    and then finetune the model to the dataset at hand."
   - Weinshall, Daphna and Cohen, Gad and Amir, Dan. *ICML 2018*
 
 - Self-Paced Deep Learning for Weakly Supervised Object Detection.
@@ -117,5 +117,7 @@ Markdown format:
   
 - Content-Consistent Matching for Domain Adaptive Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf) [[code]](https://github.com/Solacex/CCM)
+  - "to acquire those synthetic images that share similar distribution with the real ones in the target domain, so that the domain gap can be naturally alleviated by employing the content-consistent synthetic images for training."
+  - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
   - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
 
