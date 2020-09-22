@@ -114,3 +114,8 @@ Markdown format:
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)
   - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
+  
+- Content-Consistent Matching for Domain Adaptive Semantic Segmentation.
+  [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf) [[code]](https://github.com/Solacex/CCM)
+  - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
+
