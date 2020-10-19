@@ -123,9 +123,8 @@ Markdown format:
 - Content-Consistent Matching for Domain Adaptive Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf) [[code]](https://github.com/Solacex/CCM)
   - "to acquire those synthetic images that share similar distribution with the real ones in the target domain, so that the domain gap can be naturally alleviated by employing the content-consistent synthetic images for training."
+  - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
+  - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
 <p align="center">
   <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="70%">
 </p>
-  - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
-  - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
-
