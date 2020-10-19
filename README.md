@@ -75,13 +75,18 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302782)
   - Zheng, Wei and Zhu, Xiaofeng and Wen, Guoqiu and Zhu, Yonghua and Yu, Hao and Gan, Jiangzhang. *Pattern Recognition Letters 2018*
 
+- Learning to Teach with Dynamic Loss Functions.
+  [[pdf]](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf)
+  - "A good teacher not only provides his/her students with qualified teaching materials (e.g., textbooks), but also sets up appropriate learning objectives (e.g., course projects and exams) considering different situations of a student."
+  - Wu, Lijun Wu and Tian, Fei Tian and Xia, Yingce and Fan, Yang Fan and Qin, Tao and Lai, Jianhuang and Liu, Tie-Yan. *NeurIPS 2018*
+
 ### 2019
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL)
   - Shu, Yang and Cao, Zhangjie and Long, Mingsheng and Wang, Jianmin. *AAAI 2019*
 
 - Dynamic Curriculum Learning for Imbalanced Data Classification.
-  [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)
+  [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)[[simple demo]](https://github.com/apeterswu/L2T_loss)
   - Wang, Yiru and Gan, Weihao and Wu, Wei and Yan, Junjie. *ICCV 2019*
 
 - Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation.
