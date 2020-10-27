@@ -128,3 +128,7 @@ Markdown format:
 <p align="center">
   <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="70%">
 </p>
+
+- Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.
+  [[pdf]](https://arxiv.org/pdf/2006.02713.pdf) [[code]](https://github.com/yxgeee/SpCL)
+  - Ge, Yixiao and Zhu, Feng and Chen, Dapeng and Zhao, Rui and Li, Hongsheng. *NeurIPS 2020*
