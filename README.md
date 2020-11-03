@@ -112,7 +112,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
 <p align="center">
-  <img src="http://bbs.cvmart.net/uploads/images/202004/03/21/LsQbBcInWZ.gif?imageView2/2/w/1240/h/0" alt="BBN" width="70%">
+  <img src="https://img-blog.csdnimg.cn/20200406215912873.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoaXdhbmdodWFsdW8=,size_16,color_FFFFFF,t_70#pic_center" alt="BBN" width="70%">
 </p>
 
 - Open Compound Domain Adaptation.
