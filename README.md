@@ -25,6 +25,12 @@ Markdown format:
 
 ## Table of Contents
 
+### Mainstreams of curriculum learning
+
+|      Type   |        Det       |                  Seg    |            Cls           |        Trans              |    Other   |
+|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|
+| Explanation | Object Detection | Semantic Segmentation | Image Classification | Transfer Learning | other types |
+
 ### 2009
 - Curriculum Learning.
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
