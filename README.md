@@ -146,4 +146,4 @@ Markdown format:
 - Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning
   [[pdf]](https://arxiv.org/pdf/2003.10423.pdf)
   - "Evolutionary Population Curriculum (EPC), a curriculum learning paradigm that scales up MultiAgent Reinforcement Learning (MARL) by progressively increasing the population of training agents in a stage-wise manner."
-  -Long, Qian and Zhou, Zihan and Gupta, Abhibav and Fang, Fei and Wu, Yi and Wang, Xiaolong. *ICLR 2020*
+  - Long, Qian and Zhou, Zihan and Gupta, Abhibav and Fang, Fei and Wu, Yi and Wang, Xiaolong. *ICLR 2020*
