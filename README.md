@@ -138,3 +138,7 @@ Markdown format:
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.
   [[pdf]](https://arxiv.org/pdf/2006.02713.pdf) [[code]](https://github.com/yxgeee/SpCL) [[zhihu]](https://zhuanlan.zhihu.com/p/269112325?utm_source=wechat_session&utm_medium=social&utm_oi=41299705069568&utm_content=group3_article&utm_campaign=shareopn&wechatShare=2&s_r=0)
   - Ge, Yixiao and Zhu, Feng and Chen, Dapeng and Zhao, Rui and Li, Hongsheng. *NeurIPS 2020*
+  
+- Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum},
+  [[pdf]](https://arxiv.org/abs/2004.08514) [[code]](https://github.com/voldemortX/DST-CBC)
+  - Feng, Zhengyang and Zhou, Qianyu and Cheng, Guangliang and Tan, Xin and Shi, Jianping and Ma, Lizhuang. *arXiv 2004.08514*
