@@ -160,3 +160,6 @@ Markdown format:
 <p align="center">
   <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="70%">
 </p>
+
+- Curriculum Learning by Dynamic Instance Hardness [[pdf]](https://papers.nips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)
+  - Zhou, Tianyi and Wang, Shengjie and Bilmes, A. Jeff. *NeurIPS 2020*
