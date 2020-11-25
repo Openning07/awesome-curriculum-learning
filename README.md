@@ -150,4 +150,9 @@ Markdown format:
 
 - Self-Paced Deep Reinforcement Learning
  [[pdf]](https://papers.nips.cc/paper/2020/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html)
- - Klink, Pascal and D'Eramo, Carlo and Peters, R. Jan and Pajarinen, Joni. *NeurIPS 2020*
+  - Klink, Pascal and D'Eramo, Carlo and Peters, R. Jan and Pajarinen, Joni. *NeurIPS 2020*
+
+- Automatic Curriculum Learning through Value Disagreement [[pdf]](https://papers.nips.cc/paper/2020/file/566f0ea4f6c2e947f36795c8f58ba901-Paper.pdf)
+  - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
+  - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
+  - Zhang, Yunzhi and Abbeel, Pieter and Pinto, Lerrel. *NeurIPS 2020*
