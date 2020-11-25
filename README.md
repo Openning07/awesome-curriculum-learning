@@ -156,3 +156,7 @@ Markdown format:
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
   - Zhang, Yunzhi and Abbeel, Pieter and Pinto, Lerrel. *NeurIPS 2020*
+
+<p align="center">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="70%">
+</p>
