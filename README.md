@@ -86,6 +86,15 @@ Markdown format:
   - "A good teacher not only provides his/her students with qualified teaching materials (e.g., textbooks), but also sets up appropriate learning objectives (e.g., course projects and exams) considering different situations of a student."
   - Wu, Lijun Wu and Tian, Fei Tian and Xia, Yingce and Fan, Yang Fan and Qin, Tao and Lai, Jianhuang and Liu, Tie-Yan. *NeurIPS 2018*
 
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation.
+  [[pdf]](https://openreview.net/forum?id=Hk99zCeAb&noteId=Hk99zCeAb) [[code]](https://github.com/tkarras/progressive_growing_of_gans) 
+  - "The key idea is to grow both the generator and discriminator progressively: starting from a low resolution, we add new layers that model increasingly fine details as training progresses. This both speeds the training up and greatly stabilizes it, allowing us to produce images of unprecedented quality."
+  - Karras, Tero and Aila, Timo and Laine, Samuli and Lehtinen, Jaakko. *ICLR 2018*
+<p align="center">
+  <img src="https://pic1.zhimg.com/80/v2-fdaeb2fb88c40b315420b89c96460105_1440w.jpg?source=1940ef5c" alt="Progressive growing of GANs" width="70%">
+</p>
+
+
 ### 2019
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL)
@@ -118,7 +127,7 @@ Markdown format:
 - Open Compound Domain Adaptation.
   [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
   - Liu, Ziwei and Miao, Zhongqi and Pan, Xingang and Zhan, Xiaohang and Lin, Dahua and Yu, Stella X and Gong, Boqing. *CVPR 2020*
-  <p align="center">
+<p align="center">
   <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="70%">
 </p>
 
@@ -152,7 +161,8 @@ Markdown format:
  [[pdf]](https://papers.nips.cc/paper/2020/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html)
   - Klink, Pascal and D'Eramo, Carlo and Peters, R. Jan and Pajarinen, Joni. *NeurIPS 2020*
 
-- Automatic Curriculum Learning through Value Disagreement [[pdf]](https://papers.nips.cc/paper/2020/file/566f0ea4f6c2e947f36795c8f58ba901-Paper.pdf)
+- Automatic Curriculum Learning through Value Disagreement
+  [[pdf]](https://papers.nips.cc/paper/2020/file/566f0ea4f6c2e947f36795c8f58ba901-Paper.pdf)
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
   - Zhang, Yunzhi and Abbeel, Pieter and Pinto, Lerrel. *NeurIPS 2020*
