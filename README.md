@@ -91,7 +91,7 @@ Markdown format:
   - "The key idea is to grow both the generator and discriminator progressively: starting from a low resolution, we add new layers that model increasingly fine details as training progresses. This both speeds the training up and greatly stabilizes it, allowing us to produce images of unprecedented quality."
   - Karras, Tero and Aila, Timo and Laine, Samuli and Lehtinen, Jaakko. *ICLR 2018*
 <p align="center">
-  <img src="https://pic1.zhimg.com/80/v2-fdaeb2fb88c40b315420b89c96460105_1440w.jpg?source=1940ef5c" alt="Progressive growing of GANs" width="60%">
+  <img src="https://pic1.zhimg.com/80/v2-fdaeb2fb88c40b315420b89c96460105_1440w.jpg?source=1940ef5c" alt="Progressive growing of GANs" width="55%">
 </p>
 
 
@@ -121,14 +121,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
 <p align="center">
-  <img src="https://img-blog.csdnimg.cn/20200406215912873.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoaXdhbmdodWFsdW8=,size_16,color_FFFFFF,t_70#pic_center" alt="BBN" width="60%">
+  <img src="https://img-blog.csdnimg.cn/20200406215912873.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoaXdhbmdodWFsdW8=,size_16,color_FFFFFF,t_70#pic_center" alt="BBN" width="55%">
 </p>
 
 - Open Compound Domain Adaptation.
   [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
   - Liu, Ziwei and Miao, Zhongqi and Pan, Xingang and Zhan, Xiaohang and Lin, Dahua and Yu, Stella X and Gong, Boqing. *CVPR 2020*
 <p align="center">
-  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="60%">
+  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="55%">
 </p>
 
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
@@ -141,7 +141,7 @@ Markdown format:
   - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
   - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
 <p align="center">
-  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="60%">
+  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="55%">
 </p>
 
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.
@@ -168,7 +168,7 @@ Markdown format:
   - Zhang, Yunzhi and Abbeel, Pieter and Pinto, Lerrel. *NeurIPS 2020*
 
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="60%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
 </p>
 
 - Curriculum by Smoothing.
