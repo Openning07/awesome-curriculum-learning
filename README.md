@@ -27,9 +27,9 @@ Markdown format:
 
 ### Mainstreams of curriculum learning
 
-|      Type   |        `Det`   |           `Seg`.       |          `Cls`          |        `Trans`         |    Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|
-| Explanation | Object Detection | Semantic Segmentation | Image Classification | Transfer Learning | other types |
+|        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
+|:----------------:|:---------------------:|:--------------------:|:-----------------:|:-------------|:-----------:|
+| Object Detection | Semantic Segmentation | Image Classification | Transfer Learning |  Generation  | other types |
 
 ### 2009
 - Curriculum Learning.
@@ -86,7 +86,7 @@ Markdown format:
   - "A good teacher not only provides his/her students with qualified teaching materials (e.g., textbooks), but also sets up appropriate learning objectives (e.g., course projects and exams) considering different situations of a student."
   - Wu, Lijun Wu and Tian, Fei Tian and Xia, Yingce and Fan, Yang Fan and Qin, Tao and Lai, Jianhuang and Liu, Tie-Yan. *NeurIPS 2018*
 
-- Progressive Growing of GANs for Improved Quality, Stability, and Variation.
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation. `Gen`
   [[pdf]](https://openreview.net/forum?id=Hk99zCeAb&noteId=Hk99zCeAb) [[code]](https://github.com/tkarras/progressive_growing_of_gans) 
   - "The key idea is to grow both the generator and discriminator progressively: starting from a low resolution, we add new layers that model increasingly fine details as training progresses. This both speeds the training up and greatly stabilizes it, allowing us to produce images of unprecedented quality."
   - Karras, Tero and Aila, Timo and Laine, Samuli and Lehtinen, Jaakko. *ICLR 2018*
@@ -96,7 +96,7 @@ Markdown format:
 
 
 ### 2019
-- Transferable Curriculum for Weakly-Supervised Domain Adaptation
+- Transferable Curriculum for Weakly-Supervised Domain Adaptation.
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL)
   - Shu, Yang and Cao, Zhangjie and Long, Mingsheng and Wang, Jianmin. *AAAI 2019*
 
@@ -135,7 +135,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)[[code]](https://github.com/LoyoYang/CMSS)
   - Yang, Luyu and Balaji, Yogesh and Lim, Ser-Nam and Shrivastava, Abhinav. *ECCV 2020*
   
-- Content-Consistent Matching for Domain Adaptive Semantic Segmentation.
+- Content-Consistent Matching for Domain Adaptive Semantic Segmentation. `Seg`
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf) [[code]](https://github.com/Solacex/CCM)
   - "to acquire those synthetic images that share similar distribution with the real ones in the target domain, so that the domain gap can be naturally alleviated by employing the content-consistent synthetic images for training."
   - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
@@ -148,20 +148,20 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.02713.pdf) [[code]](https://github.com/yxgeee/SpCL) [[zhihu]](https://zhuanlan.zhihu.com/p/269112325?utm_source=wechat_session&utm_medium=social&utm_oi=41299705069568&utm_content=group3_article&utm_campaign=shareopn&wechatShare=2&s_r=0)
   - Ge, Yixiao and Zhu, Feng and Chen, Dapeng and Zhao, Rui and Li, Hongsheng. *NeurIPS 2020*
   
-- Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum},
+- Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum.
   [[pdf]](https://arxiv.org/abs/2004.08514) [[code]](https://github.com/voldemortX/DST-CBC)
   - Feng, Zhengyang and Zhou, Qianyu and Cheng, Guangliang and Tan, Xin and Shi, Jianping and Ma, Lizhuang. *arXiv 2004.08514*
   
-- Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning
+- Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/2003.10423.pdf)[[code]](https://github.com/qian18long/epciclr2020)
   - "Evolutionary Population Curriculum (EPC), a curriculum learning paradigm that scales up MultiAgent Reinforcement Learning (MARL) by progressively increasing the population of training agents in a stage-wise manner."
   - Long, Qian and Zhou, Zihan and Gupta, Abhibav and Fang, Fei and Wu, Yi and Wang, Xiaolong. *ICLR 2020*
 
-- Self-Paced Deep Reinforcement Learning
+- Self-Paced Deep Reinforcement Learning.
  [[pdf]](https://papers.nips.cc/paper/2020/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html)
   - Klink, Pascal and D'Eramo, Carlo and Peters, R. Jan and Pajarinen, Joni. *NeurIPS 2020*
 
-- Automatic Curriculum Learning through Value Disagreement
+- Automatic Curriculum Learning through Value Disagreement.
   [[pdf]](https://papers.nips.cc/paper/2020/file/566f0ea4f6c2e947f36795c8f58ba901-Paper.pdf)
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
@@ -171,8 +171,10 @@ Markdown format:
   <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="70%">
 </p>
 
-- Curriculum by Smoothing [[pdf]](https://proceedings.neurips.cc/paper/2020/file/f6a673f09493afcd8b129a0bcf1cd5bc-Paper.pdf) [[code]](https://github.com/pairlab/CBS)
+- Curriculum by Smoothing.
+  [[pdf]](https://proceedings.neurips.cc/paper/2020/file/f6a673f09493afcd8b129a0bcf1cd5bc-Paper.pdf) [[code]](https://github.com/pairlab/CBS)
   - Sinha Samarth and Garg Animesh and Larochelle Hugo. *NeurIPS 2020*
 
-- Curriculum Learning by Dynamic Instance Hardness [[pdf]](https://papers.nips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)
+- Curriculum Learning by Dynamic Instance Hardness.
+  [[pdf]](https://papers.nips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, A. Jeff. *NeurIPS 2020*
