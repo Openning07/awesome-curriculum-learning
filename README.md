@@ -28,7 +28,7 @@ Markdown format:
 ### Mainstreams of curriculum learning
 
 |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
-|:----------------:|:---------------------:|:--------------------:|:-----------------:|:-------------|:-----------:|
+|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
 | Object Detection | Semantic Segmentation | Image Classification | Transfer Learning |  Generation  | other types |
 
 ### 2009
