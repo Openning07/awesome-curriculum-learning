@@ -117,6 +117,13 @@ Markdown format:
   - Ghasedi, Kamran and Wang, Xiaoqian and Deng, Cheng and Huang, Heng. *CVPR 2019*
   
 ### 2020
+- Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search.
+  [[pdf]](http://proceedings.mlr.press/v119/guo20b.html) [[code]](https://github.com/guoyongcs/CNAS)
+  - Guo, Yong and Chen, Yaofo and Zheng, Yin and Zhao, Peilin and Chen, Jian and Huang, Junzhou and Tan, Mingkui. *ICML 20*
+<p align="center">
+  <img src="https://github.com/guoyongcs/CNAS/blob/master/assets/cnas.jpg" alt="CNAS" width="55%">
+</p>
+
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN)
   - Zhou, Boyan and Cui, Quan and Wei, Xiu-Shen and Chen, Zhao-Min. *CVPR 2020*
