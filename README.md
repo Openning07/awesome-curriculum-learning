@@ -121,7 +121,7 @@ Markdown format:
   [[pdf]](http://proceedings.mlr.press/v119/guo20b.html) [[code]](https://github.com/guoyongcs/CNAS)
   - Guo, Yong and Chen, Yaofo and Zheng, Yin and Zhao, Peilin and Chen, Jian and Huang, Junzhou and Tan, Mingkui. *ICML 20*
 <p align="center">
-  <img src="https://github.com/guoyongcs/CNAS/blob/master/assets/cnas.jpg" alt="CNAS" width="55%">
+  <img src="https://github.com/guoyongcs/CNAS/blob/master/assets/cnas.jpg" alt="CNAS" width="45%">
 </p>
 
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
