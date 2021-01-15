@@ -185,3 +185,8 @@ Markdown format:
 - Curriculum Learning by Dynamic Instance Hardness.
   [[pdf]](https://papers.nips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, A. Jeff. *NeurIPS 2020*
+
+- Robust Curriculum Learning: from clean label detection to noisy label self-correction.
+  [[pdf]](https://openreview.net/pdf?id=lmTWnm3coJJ) [[online review]](https://openreview.net/forum?id=lmTWnm3coJJ)
+  - "Robust curriculum learning (RoCL) improves noisy label learning by periodical transitions from supervised learning of clean labeled data to self-supervision of wrongly-labeled data, where the data are selected according to training dynamics."
+  - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. **ICLR 2021**
