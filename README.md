@@ -190,3 +190,8 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=lmTWnm3coJJ) [[online review]](https://openreview.net/forum?id=lmTWnm3coJJ)
   - "Robust curriculum learning (RoCL) improves noisy label learning by periodical transitions from supervised learning of clean labeled data to self-supervision of wrongly-labeled data, where the data are selected according to training dynamics."
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. **ICLR 2021**
+
+- Robust Early-Learning: Hindering The Memorization of Noisy Labels.
+  [[pdf]](https://openreview.net/pdf?id=Eql5b1_hTE4) [[online review]](https://openreview.net/forum?id=Eql5b1_hTE4)
+  - "Robust early-learning: to reduce the side effect of noisy labels before early stopping and thus enhance the memorization of clean labels. Specifically, in each iteration, we divide all parameters into the critical and non-critical ones, and then perform different update rules for different types of parameters."
+  - Xia, Xiaobo and Liu, Tongliang and Han, Bo and Gong, Chen and Wang, Nannan and Ge, Zongyuan and Chang, Yi. **ICLR 2021**
