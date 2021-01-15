@@ -30,7 +30,7 @@ Markdown format:
 |  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
 |:----------------:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
 |  Item  | Detection | Semantic | Image Classification | Transfer Learning |  Generation  | other types |
-|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail |  collapose  | - |
+|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  |  -  |
 
 ### 2009
 - Curriculum Learning.
