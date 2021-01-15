@@ -27,10 +27,10 @@ Markdown format:
 
 ### Mainstreams of curriculum learning
 
-|        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
-|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
-| Object | Semantic | Image Classification | Transfer Learning |  Image  | other types |
-| Detection | Segmentation | (e.g., imbalance, noise) | (e.g., long-tail) |  Generation  | (e.g., reinforcement learning) |
+|  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
+|:----------------:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
+|  Item  | Detection | Semantic | Image Classification | Transfer Learning |  Generation  | other types |
+|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail |  collapose  | - |
 
 ### 2009
 - Curriculum Learning.
