@@ -29,7 +29,8 @@ Markdown format:
 
 |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
 |:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
-| Object Detection | Semantic Segmentation | Image Classification | Transfer Learning |  Generation  | other types |
+| Object | Semantic | Image Classification | Transfer Learning |  Image  | other types |
+| Detection | Segmentation | (e.g., imbalance, noise) | (e.g., long-tail) |  Generation  | (e.g., reinforcement learning) |
 
 ### 2009
 - Curriculum Learning.
