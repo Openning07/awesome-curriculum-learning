@@ -152,6 +152,11 @@ Markdown format:
   <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="55%">
 </p>
 
+- DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search.
+  [[pdf]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720579.pdf)
+  - "Our method is based on an interesting observation that the learning speed for blocks in deep neural networks is related to the difficulty of recognizing distinct categories. We carefully design a progressive data adapted pruning strategy for efficient architecture search. It will quickly trim low performed blocks on a subset of target dataset (e.g., easy classes), and then gradually find the best blocks on the whole target dataset."
+  - Dai, Xiyang and Chen, Dongdong and Liu, Mengchen and Chen, Yinpeng and Yuan, Lu. *ECCV 2020*
+
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.
   [[pdf]](https://arxiv.org/pdf/2006.02713.pdf) [[code]](https://github.com/yxgeee/SpCL) [[zhihu]](https://zhuanlan.zhihu.com/p/269112325?utm_source=wechat_session&utm_medium=social&utm_oi=41299705069568&utm_content=group3_article&utm_campaign=shareopn&wechatShare=2&s_r=0)
   - Ge, Yixiao and Zhu, Feng and Chen, Dapeng and Zhao, Rui and Li, Hongsheng. *NeurIPS 2020*
@@ -187,12 +192,13 @@ Markdown format:
   [[pdf]](https://papers.nips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, A. Jeff. *NeurIPS 2020*
 
+### 2021
 - Robust Curriculum Learning: from clean label detection to noisy label self-correction.
   [[pdf]](https://openreview.net/pdf?id=lmTWnm3coJJ) [[online review]](https://openreview.net/forum?id=lmTWnm3coJJ)
   - "Robust curriculum learning (RoCL) improves noisy label learning by periodical transitions from supervised learning of clean labeled data to self-supervision of wrongly-labeled data, where the data are selected according to training dynamics."
-  - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. **ICLR 2021**
+  - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. *ICLR 2021*
 
 - Robust Early-Learning: Hindering The Memorization of Noisy Labels.
   [[pdf]](https://openreview.net/pdf?id=Eql5b1_hTE4) [[online review]](https://openreview.net/forum?id=Eql5b1_hTE4)
   - "Robust early-learning: to reduce the side effect of noisy labels before early stopping and thus enhance the memorization of clean labels. Specifically, in each iteration, we divide all parameters into the critical and non-critical ones, and then perform different update rules for different types of parameters."
-  - Xia, Xiaobo and Liu, Tongliang and Han, Bo and Gong, Chen and Wang, Nannan and Ge, Zongyuan and Chang, Yi. **ICLR 2021**
+  - Xia, Xiaobo and Liu, Tongliang and Han, Bo and Gong, Chen and Wang, Nannan and Ge, Zongyuan and Chang, Yi. *ICLR 2021*
