@@ -157,10 +157,16 @@ Markdown format:
   - "Our method is based on an interesting observation that the learning speed for blocks in deep neural networks is related to the difficulty of recognizing distinct categories. We carefully design a progressive data adapted pruning strategy for efficient architecture search. It will quickly trim low performed blocks on a subset of target dataset (e.g., easy classes), and then gradually find the best blocks on the whole target dataset."
   - Dai, Xiyang and Chen, Dongdong and Liu, Mengchen and Chen, Yinpeng and Yuan, Lu. *ECCV 2020*
 
+- Label-similarity Curriculum Learning.
+  [[pdf]](https://arxiv.org/pdf/1911.06902.pdf) [[code]](https://github.com/speedystream/LCL)
+  - "The idea is to use a probability distribution over classes as target label, where the class probabilities reflect the similarity to the true class. Gradually, this label
+representation is shifted towards the standard one-hot-encoding."
+  - Dogan, Urun and Deshmukh, A. Aniket, and Machura, Marcin and Igel, Christian. *ECCV 2020*
+
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.
   [[pdf]](https://arxiv.org/pdf/2006.02713.pdf) [[code]](https://github.com/yxgeee/SpCL) [[zhihu]](https://zhuanlan.zhihu.com/p/269112325?utm_source=wechat_session&utm_medium=social&utm_oi=41299705069568&utm_content=group3_article&utm_campaign=shareopn&wechatShare=2&s_r=0)
   - Ge, Yixiao and Zhu, Feng and Chen, Dapeng and Zhao, Rui and Li, Hongsheng. *NeurIPS 2020*
-  
+
 - Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum.
   [[pdf]](https://arxiv.org/abs/2004.08514) [[code]](https://github.com/voldemortX/DST-CBC)
   - Feng, Zhengyang and Zhou, Qianyu and Cheng, Guangliang and Tan, Xin and Shi, Jianping and Ma, Lizhuang. *arXiv 2004.08514*
