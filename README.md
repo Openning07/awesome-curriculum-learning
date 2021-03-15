@@ -208,3 +208,9 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://openreview.net/pdf?id=Eql5b1_hTE4) [[online review]](https://openreview.net/forum?id=Eql5b1_hTE4)
   - "Robust early-learning: to reduce the side effect of noisy labels before early stopping and thus enhance the memorization of clean labels. Specifically, in each iteration, we divide all parameters into the critical and non-critical ones, and then perform different update rules for different types of parameters."
   - Xia, Xiaobo and Liu, Tongliang and Han, Bo and Gong, Chen and Wang, Nannan and Ge, Zongyuan and Chang, Yi. *ICLR 2021*
+
+- When Do Curricula Work?
+  [[pdf]](https://openreview.net/pdf?id=tW4QEInpni)
+  - "We find that for standard benchmark datasets, curricula have only marginal benefits, and that randomly ordered samples perform as well or better than curricula and anti-curricula, suggesting that any benefit is entirely due to the dynamic training set size."
+  - "Our experiments demonstrate that curriculum, but not anti-curriculum or random ordering can indeed improve the performance either with limited training time budget or in the existence of noisy data."
+  - Wu, Xiaoxia and Dyer, Ethan and Neyshabur, Behnam. *ICLR 2021* (oral)
