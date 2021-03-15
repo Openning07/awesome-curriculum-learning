@@ -211,6 +211,5 @@ representation is shifted towards the standard one-hot-encoding."
 
 - When Do Curricula Work?
   [[pdf]](https://openreview.net/pdf?id=tW4QEInpni)
-  - "We find that for standard benchmark datasets, curricula have only marginal benefits, and that randomly ordered samples perform as well or better than curricula and anti-curricula, suggesting that any benefit is entirely due to the dynamic training set size."
-  - "Our experiments demonstrate that curriculum, but not anti-curriculum or random ordering can indeed improve the performance either with limited training time budget or in the existence of noisy data."
+  - "We find that for standard benchmark datasets, curricula have only marginal benefits, and that randomly ordered samples perform as well or better than curricula and anti-curricula, suggesting that any benefit is entirely due to the dynamic training set size. ... Our experiments demonstrate that curriculum, but not anti-curriculum or random ordering can indeed improve the performance either with limited training time budget or in the existence of noisy data."
   - Wu, Xiaoxia and Dyer, Ethan and Neyshabur, Behnam. *ICLR 2021* (oral)
