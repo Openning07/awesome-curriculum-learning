@@ -213,3 +213,11 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://openreview.net/pdf?id=tW4QEInpni)
   - "We find that for standard benchmark datasets, curricula have only marginal benefits, and that randomly ordered samples perform as well or better than curricula and anti-curricula, suggesting that any benefit is entirely due to the dynamic training set size. ... Our experiments demonstrate that curriculum, but not anti-curriculum or random ordering can indeed improve the performance either with limited training time budget or in the existence of noisy data."
   - Wu, Xiaoxia and Dyer, Ethan and Neyshabur, Behnam. *ICLR 2021* (oral)
+
+- Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation.
+  [[pdf]](https://arxiv.org/pdf/2104.00808.pdf) [[code]](https://github.com/Evgeneus/Graph-Domain-Adaptaion)
+  - Roy, Subhankar and Krivosheev, Evgeny and Zhong, Zhun and Sebe, Nicu and Ricci, Elisa. *CVPR 2021*
+
+<p align="center">
+  <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="55%">
+</p>
