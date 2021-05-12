@@ -32,6 +32,11 @@ Markdown format:
 |  Item  | Detection | Semantic | Image Classification | Transfer Learning |  Generation  | other types |
 |  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  |  -  |
 
+### SURVEY
+- Curriculum Learning: A Survey.
+  [[pdf]](https://arxiv.org/pdf/2101.10382.pdf)
+- Soviany, Petru and Ionescu, Radu Tudor and Rota, Paolo and Sebe, Nicu. *arxiv 2101.10382*
+
 ### 2009
 - Curriculum Learning.
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
