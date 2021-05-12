@@ -35,7 +35,7 @@ Markdown format:
 ### SURVEY
 - Curriculum Learning: A Survey.
   [[pdf]](https://arxiv.org/pdf/2101.10382.pdf)
-- Soviany, Petru and Ionescu, Radu Tudor and Rota, Paolo and Sebe, Nicu. *arxiv 2101.10382*
+  - Soviany, Petru and Ionescu, Radu Tudor and Rota, Paolo and Sebe, Nicu. *arxiv 2101.10382*
 
 ### 2009
 - Curriculum Learning.
