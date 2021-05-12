@@ -57,6 +57,7 @@ Markdown format:
   - Zhang, Yang and David, Philip and Gong, Boqing. *ICCV 2017*
 
 ### 2018
+<details><summary> 2018 </summary>
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf)
   - "Sort the training examples based on the *performance* of a pre-trained network on a larger dataset,
@@ -95,6 +96,7 @@ Markdown format:
   <img src="https://pic1.zhimg.com/80/v2-fdaeb2fb88c40b315420b89c96460105_1440w.jpg?source=1940ef5c" alt="Progressive growing of GANs" width="55%">
 </p>
 
+</details>
 
 ### 2019
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation.
