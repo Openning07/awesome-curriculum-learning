@@ -226,3 +226,7 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="65%">
 </p>
+
+- TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL.
+  [[pdf]](https://arxiv.org/pdf/2103.09815.pdf) [[code]](https://github.com/flowersteam/TeachMyAgent)
+  - Romac, Clément and Portelas, Rémy and Hofmann, Katja and Oudeyer, Pierre-Yves. *ICML 2021*
