@@ -232,5 +232,5 @@ representation is shifted towards the standard one-hot-encoding."
   - Romac, Clément and Portelas, Rémy and Hofmann, Katja and Oudeyer, Pierre-Yves. *ICML 2021*
 
 <p align="center">
-  <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="60%">
+  <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="52%">
 </p>
