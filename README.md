@@ -154,7 +154,7 @@ Markdown format:
   - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
   - Li, Guangrui and Kang, Guokiang and Liu, Wu and Wei, Yunchao and Yang, Yi . *ECCV 2020*
 <p align="center">
-  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="55%">
+  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="65%">
 </p>
 
 - DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search.
