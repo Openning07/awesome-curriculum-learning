@@ -44,7 +44,7 @@ Markdown format:
   - Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. *ICML 2009*
 
 ### 2015
-- Self-Paced Curriculum Learning.
+- Curriculum Learning.
   [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14374/14349)
   - Jiang, Lu and Meng, Deyu and Zhao, Qian and Shan, Shiguang and Hauptmann, Alexander G. *AAAI 2015*
 
@@ -224,9 +224,13 @@ representation is shifted towards the standard one-hot-encoding."
   - Roy, Subhankar and Krivosheev, Evgeny and Zhong, Zhun and Sebe, Nicu and Ricci, Elisa. *CVPR 2021*
 
 <p align="center">
-  <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="65%">
+  <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="75%">
 </p>
 
 - TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL.
   [[pdf]](https://arxiv.org/pdf/2103.09815.pdf) [[code]](https://github.com/flowersteam/TeachMyAgent)
   - Romac, Clément and Portelas, Rémy and Hofmann, Katja and Oudeyer, Pierre-Yves. *ICML 2021*
+
+<p align="center">
+  <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="60%">
+</p>
