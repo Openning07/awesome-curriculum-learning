@@ -234,3 +234,11 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="52%">
 </p>
+
+- Curriculum Learning by Optimizing Learning Dynamics.
+  [[pdf]](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf) [[code]](https://github.com/tianyizhou/DoCL)
+  - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. *AISTATS 2021*
+
+<p align="center">
+  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="32%">
+</p>
