@@ -240,5 +240,5 @@ representation is shifted towards the standard one-hot-encoding."
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. *AISTATS 2021*
 
 <p align="center">
-  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="32%">
+  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="50%">
 </p>
