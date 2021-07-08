@@ -27,7 +27,7 @@ Markdown format:
 
 ### Mainstreams of curriculum learning
 
-|  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    Other    |
+|  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    `Other`    |
 |:----------------:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
 |  Item  | Detection | Semantic | Image Classification | Transfer Learning |  Generation  | other types |
 |  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  |  -  |
@@ -242,3 +242,8 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="50%">
 </p>
+
+- Self-Paced Context Evaluation for Contextual Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2106.05110.pdf)
+  - "To improve sample efficiency for learning on such instances of a problem domain, we present Self-Paced Context Evaluation (SPaCE). Based on self-paced learning, \spc automatically generates \task curricula online with little computational overhead. To this end, SPaCE leverages information contained in state values during training to accelerate and improve training performance as well as generalization capabilities to new instances from the same problem domain."
+  - Eimer, Theresa and Biedenkapp, André and Hutter, Frank and Lindauer Marius. *ICML 2021*
