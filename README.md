@@ -235,6 +235,11 @@ representation is shifted towards the standard one-hot-encoding."
   <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="52%">
 </p>
 
+- Self-Paced Context Evaluation for Contextual Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2106.05110.pdf)
+  - "To improve sample efficiency for learning on such instances of a problem domain, we present Self-Paced Context Evaluation (SPaCE). Based on self-paced learning, \spc automatically generates \task curricula online with little computational overhead. To this end, SPaCE leverages information contained in state values during training to accelerate and improve training performance as well as generalization capabilities to new instances from the same problem domain."
+  - Eimer, Theresa and Biedenkapp, André and Hutter, Frank and Lindauer Marius. *ICML 2021*
+
 - Curriculum Learning by Optimizing Learning Dynamics.
   [[pdf]](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf) [[code]](https://github.com/tianyizhou/DoCL)
   - Zhou, Tianyi and Wang, Shengjie and Bilmes, Jeff. *AISTATS 2021*
@@ -242,8 +247,3 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="50%">
 </p>
-
-- Self-Paced Context Evaluation for Contextual Reinforcement Learning.
-  [[pdf]](https://arxiv.org/pdf/2106.05110.pdf)
-  - "To improve sample efficiency for learning on such instances of a problem domain, we present Self-Paced Context Evaluation (SPaCE). Based on self-paced learning, \spc automatically generates \task curricula online with little computational overhead. To this end, SPaCE leverages information contained in state values during training to accelerate and improve training performance as well as generalization capabilities to new instances from the same problem domain."
-  - Eimer, Theresa and Biedenkapp, André and Hutter, Frank and Lindauer Marius. *ICML 2021*
