@@ -247,3 +247,7 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="50%">
 </p>
+
+- FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
+  [[code]](https://github.com/torchssl/torchssl)
+  - Zhang, Bowen and Wang, Yidong and Hou, Wenxin and Wu, Hao and Wang, Jindong and Manabu, Okumura and Takahiro, Shinozaki. *NeurIPS 2021*
