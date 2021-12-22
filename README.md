@@ -227,6 +227,18 @@ representation is shifted towards the standard one-hot-encoding."
   <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="75%">
 </p>
 
+- Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Unsupervised_Curriculum_Domain_Adaptation_for_No-Reference_Video_Quality_Assessment_ICCV_2021_paper.pdf) [[code]](https://github.com/cpf0079/UCDA)
+  - Chen, Pengfei and Li, Leida and Wu, Jinjian and Dong, Weisheng and Shi, Guangming. *ICCV 2021*
+
+- Adaptive Curriculum Learning.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kong_Adaptive_Curriculum_Learning_ICCV_2021_paper.pdf)
+  - Kong, Yajing and Liu, Liu and Wang, Jun and Tao, Dacheng. *ICCV 2021*
+
+- Multi-Level Curriculum for Training A Distortion-Aware Barrel Distortion Rectification Model.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liao_Multi-Level_Curriculum_for_Training_a_Distortion-Aware_Barrel_Distortion_Rectification_Model_ICCV_2021_paper.pdf)
+- Liao, Kang and Lin, Chunyu and Liao, Lixin and Zhao, Yao and Lin, Weiyao. *ICCV 2021*
+
 - TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL.
   [[pdf]](https://arxiv.org/pdf/2103.09815.pdf) [[code]](https://github.com/flowersteam/TeachMyAgent)
   - Romac, Clément and Portelas, Rémy and Hofmann, Katja and Oudeyer, Pierre-Yves. *ICML 2021*
