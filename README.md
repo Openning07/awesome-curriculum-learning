@@ -113,7 +113,7 @@ Markdown format:
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN) *CVPR 2020*
 <p align="center">
-  <img src="https://pic1.zhimg.com/80/v2-de4d0bfe21a08dc1a6bbf6dae37ca998_720w.jpg" alt="BBN" width="58%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/tree/master/images/BBN_CVPR20.png" alt="BBN" width="58%">
 </p>
 
 - Open Compound Domain Adaptation.
@@ -154,7 +154,7 @@ representation is shifted towards the standard one-hot-encoding."
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/tree/master/images/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
 </p>
 
 - Curriculum by Smoothing.
