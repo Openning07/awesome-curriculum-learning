@@ -113,13 +113,13 @@ Markdown format:
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN) *CVPR 2020*
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/BBN_CVPR20.png" alt="BBN" width="65%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/BBN_CVPR20.png" alt="BBN" width="70%">
 </p>
 
 - Open Compound Domain Adaptation.
   [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) *CVPR 2020*
 <p align="center">
-  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="58%">
+  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="65%">
 </p>
 
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
@@ -130,7 +130,7 @@ Markdown format:
   - "to acquire those synthetic images that share similar distribution with the real ones in the target domain, so that the domain gap can be naturally alleviated by employing the content-consistent synthetic images for training."
   - "not all the source images could contribute to the improvement of adaptation performance, especially at certain training stages."
 <p align="center">
-  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="65%">
+  <img src="https://pic2.zhimg.com/80/v2-f6f3eb85a79f206b4f5524eaf43a71fd_1440w.jpg" alt="CMM" width="70%">
 </p>
 
 - DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search.
@@ -154,7 +154,7 @@ representation is shifted towards the standard one-hot-encoding."
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="65%">
 </p>
 
 - Curriculum by Smoothing.
@@ -210,7 +210,7 @@ representation is shifted towards the standard one-hot-encoding."
 - Curriculum Learning by Optimizing Learning Dynamics.
   [[pdf]](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf) [[code]](https://github.com/tianyizhou/DoCL) *AISTATS 2021*
 <p align="center">
-  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="50%">
+  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="55%">
 </p>
 
 - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
