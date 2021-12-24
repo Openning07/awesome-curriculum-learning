@@ -113,13 +113,13 @@ Markdown format:
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN) *CVPR 2020*
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/BBN_CVPR20.png" alt="BBN" width="58%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/BBN_CVPR20.png" alt="BBN" width="65%">
 </p>
 
 - Open Compound Domain Adaptation.
   [[pdf]](https://arxiv.org/abs/1909.03403) [[code]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) *CVPR 2020*
 <p align="center">
-  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="55%">
+  <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="58%">
 </p>
 
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
@@ -154,7 +154,7 @@ representation is shifted towards the standard one-hot-encoding."
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
   - "Our key insight is that if we can sample goals at the frontier of the set of goals that an agent is able to reach, it will provide a significantly stronger learning signal compared to randomly sampled goals"
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/tree/master/images/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/AutomaticCurriculumLearningThroughValueDisagreement.png" alt="CMM" width="55%">
 </p>
 
 - Curriculum by Smoothing.
