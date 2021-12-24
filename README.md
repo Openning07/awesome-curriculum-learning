@@ -113,7 +113,7 @@ Markdown format:
 - BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
   [[pdf]](https://arxiv.org/abs/1912.02413) [[code]](https://github.com/Megvii-Nanjing/BBN) *CVPR 2020*
 <p align="center">
-  <img src="https://github.com/Openning07/awesome-curriculum-learning/tree/master/images/BBN_CVPR20.png" alt="BBN" width="58%">
+  <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/BBN_CVPR20.png" alt="BBN" width="58%">
 </p>
 
 - Open Compound Domain Adaptation.
