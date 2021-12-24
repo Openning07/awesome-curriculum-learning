@@ -33,29 +33,24 @@ Markdown format:
 |  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  |  -  |
 
 ### SURVEY
-- Curriculum Learning: A Survey.
+- Curriculum Learning: A Survey. *arxiv 2101.10382*
   [[pdf]](https://arxiv.org/pdf/2101.10382.pdf)
-  - Soviany, Petru and Ionescu, Radu Tudor and Rota, Paolo and Sebe, Nicu. *arxiv 2101.10382*
 
 ### 2009
-- Curriculum Learning.
+- Curriculum Learning. *ICML 2009*
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y)
   - "Rank the weights of the training examples, and use the rank to guide the order of presentation of examples to the learner."
-  - Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason. *ICML 2009*
 
 ### 2015
-- Curriculum Learning.
+- Curriculum Learning. *AAAI 2015*
   [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14374/14349)
-  - Jiang, Lu and Meng, Deyu and Zhao, Qian and Shan, Shiguang and Hauptmann, Alexander G. *AAAI 2015*
 
 ### 2017
-- Self-Paced Learning: An Implicit Regularization Perspective.
+- Self-Paced Learning: An Implicit Regularization Perspective. *AAAI 2017*
   [[pdf]](https://www.researchgate.net/profile/Jian_Liang25/publication/303750070_Self-Paced_Learning_an_Implicit_Regularization_Perspective/links/5858e75b08ae3852d25555e3/Self-Paced-Learning-an-Implicit-Regularization-Perspective.pdf)
-  - Fan, Yanbo and He, Ran and Liang, Jian and Hu, Bao-Gang. *AAAI 2017*
   
-- Curriculum Dropout.
+- Curriculum Dropout. *ICCV 2017*
   [[pdf]](http://www.vision.jhu.edu/assets/MorerioICCV17.pdf) [[code]](https://github.com/pmorerio/curriculum-dropout)
-  - Morerio, Pietro and Cavazza, Jacopo and Volpi, Riccardo and Vidal, Ren\'e and Murino, Vittorio. *ICCV 2017*
 
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes.
   [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[code]](https://github.com/YangZhang4065/AdaptationSeg)
