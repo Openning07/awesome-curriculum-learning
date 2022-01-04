@@ -185,7 +185,7 @@ representation is shifted towards the standard one-hot-encoding."
 - Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation.
   [[pdf]](https://arxiv.org/pdf/2104.00808.pdf) [[code]](https://github.com/Evgeneus/Graph-Domain-Adaptaion) *CVPR 2021*
 <p align="center">
-  <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="75%">
+  <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="80%">
 </p>
 
 - Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment.
@@ -210,8 +210,11 @@ representation is shifted towards the standard one-hot-encoding."
 - Curriculum Learning by Optimizing Learning Dynamics.
   [[pdf]](http://proceedings.mlr.press/v130/zhou21a/zhou21a.pdf) [[code]](https://github.com/tianyizhou/DoCL) *AISTATS 2021*
 <p align="center">
-  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="55%">
+  <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="52%">
 </p>
 
 - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
   [[pdf]](https://arxiv.org/pdf/2110.08263.pdf) [[code]](https://github.com/torchssl/torchssl) *NeurIPS 2021*
+
+- Learning with Noisy Correspondence for Cross-modal Matching.
+  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR) *NeurIPS 2021*
