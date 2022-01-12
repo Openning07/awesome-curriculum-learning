@@ -224,3 +224,7 @@ representation is shifted towards the standard one-hot-encoding."
 <p align="center">
   <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/NCR_NeurIPS21.png" alt="NCR" width="85%">
 </p>
+
+- Self-Paced Contrastive Learning for Semi-Supervised Medical Image Segmentation with Meta-labels.
+  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/8b5c8441a8ff8e151b191c53c1842a38-Paper.pdf) *NeurIPS 2021*
+  - "A self-paced learning strategy exploiting the weak annotations is proposed to further help the learning process and discriminate useful labels from noise."
