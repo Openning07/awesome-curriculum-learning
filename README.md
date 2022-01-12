@@ -149,6 +149,9 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://arxiv.org/pdf/2003.10423.pdf)[[code]](https://github.com/qian18long/epciclr2020) *ICLR 2020*
   - "Evolutionary Population Curriculum (EPC), a curriculum learning paradigm that scales up MultiAgent Reinforcement Learning (MARL) by progressively increasing the population of training agents in a stage-wise manner."
 
+- Curriculum Loss: Robust Learning and Generalization Against Label Corruption.
+  [[pdf]](https://arxiv.org/pdf/1905.10045.pdf) *ICLR 2020*
+
 - Automatic Curriculum Learning through Value Disagreement.
   [[pdf]](https://papers.nips.cc/paper/2020/file/566f0ea4f6c2e947f36795c8f58ba901-Paper.pdf) *NeurIPS 2020*
   - " When biological agents learn, there is often an organized and meaningful order to which learning happens."
