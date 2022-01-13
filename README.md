@@ -41,6 +41,10 @@ Markdown format:
   [[pdf]](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/15972/Bengio%2C%202009%20Curriculum%20Learning.pdf?sequence=1&isAllowed=y) *ICML*
   - "Rank the weights of the training examples, and use the rank to guide the order of presentation of examples to the learner."
 
+### 2011
+- Learning the Easy Things First: Self-Paced Visual Category Discovery.
+  [[pdf]](https://vision.cs.utexas.edu/projects/easiness/easiness_cvpr2011.pdf) *CVPR*
+
 ### 2015
 - Curriculum Learning.
   [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14374/14349) *AAAI*
@@ -48,6 +52,9 @@ Markdown format:
 ### 2017
 - Self-Paced Learning: An Implicit Regularization Perspective.
   [[pdf]](https://www.researchgate.net/profile/Jian_Liang25/publication/303750070_Self-Paced_Learning_an_Implicit_Regularization_Perspective/links/5858e75b08ae3852d25555e3/Self-Paced-Learning-an-Implicit-Regularization-Perspective.pdf) *AAAI*
+  
+- SPFTN: A Self-Paced Fine-Tuning Network for Segmenting Objects in Weakly Labelled Videos.
+  [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_SPFTN_A_Self-Paced_CVPR_2017_paper.pdf) [[code]](https://github.com/VividLe/SPFTN) *CVPR*
   
 - Curriculum Dropout.
   [[pdf]](http://www.vision.jhu.edu/assets/MorerioICCV17.pdf) [[code]](https://github.com/pmorerio/curriculum-dropout) *ICCV*
@@ -95,13 +102,16 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)[[simple demo]](https://github.com/apeterswu/L2T_loss) *ICCV*
 
 - Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation.
-  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sakaridis_Guided_Curriculum_Model_Adaptation_and_Uncertainty-Aware_Evaluation_for_Semantic_Nighttime_ICCV_2019_paper.pdf) *ICCV*
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sakaridis_Guided_Curriculum_Model_Adaptation_and_Uncertainty-Aware_Evaluation_for_Semantic_Nighttime_ICCV_2019_paper.pdf) [[code]](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/) *ICCV*
 
 - On The Power of Curriculum Learning in Training Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1904.03626.pdf) *ICML*
 
 - Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf) *CVPR*
+
+-Leveraging prior-knowledge for weakly supervised object detection under a collaborative self-paced curriculum learning framework.
+  [[link]](https://openreview.net/forum?id=Jv2tq4Opli) *IJCV*
 
 ### 2020
 - Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search.
