@@ -242,7 +242,7 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://arxiv.org/pdf/2110.08263.pdf) [[code]](https://github.com/torchssl/torchssl) *NeurIPS*
 
 - Learning with Noisy Correspondence for Cross-modal Matching.
-  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR) *NeurIPS 2021*
+  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR) *NeurIPS*
 <p align="center">
   <img src="https://github.com/Openning07/awesome-curriculum-learning/blob/master/images/NCR_NeurIPS21.png" alt="NCR" width="85%">
 </p>
