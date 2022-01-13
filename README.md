@@ -202,6 +202,9 @@ representation is shifted towards the standard one-hot-encoding."
 - SuperLoss: A Generic Loss for Robust Curriculum Learning.
   [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2cfa8f9e50e0f510ede9d12338a5f564-Paper.pdf) [[code]](https://github.com/AlanChou/Super-Loss) *NeurIPS*
 
+- Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey.
+  [[pdf]](https://jmlr.org/papers/volume21/20-212/20-212.pdf) *JMLR*
+
 ### 2021
 - Robust Curriculum Learning: from clean label detection to noisy label self-correction.
   [[pdf]](https://openreview.net/pdf?id=lmTWnm3coJJ) [[online review]](https://openreview.net/forum?id=lmTWnm3coJJ) *ICLR*
