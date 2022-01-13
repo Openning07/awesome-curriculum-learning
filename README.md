@@ -113,6 +113,9 @@ Markdown format:
 - Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf) *CVPR*
 
+- Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum.
+  [[pdf]](https://papers.nips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf) [[code]](https://github.com/apple/ml-data-parameters) *NeurIPS*
+
 -Leveraging prior-knowledge for weakly supervised object detection under a collaborative self-paced curriculum learning framework.
   [[link]](https://openreview.net/forum?id=Jv2tq4Opli) *IJCV*
 
