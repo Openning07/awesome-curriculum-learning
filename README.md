@@ -101,7 +101,7 @@ Markdown format:
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL) *AAAI*
 
 - Dynamic Curriculum Learning for Imbalanced Data Classification.
-  [[pdf]](https://arxiv.org/pdf/1901.06783.pdf)[[simple demo]](https://github.com/apeterswu/L2T_loss) *ICCV*
+  [[pdf]](https://arxiv.org/pdf/1901.06783.pdf) [[simple demo]](https://github.com/apeterswu/L2T_loss) *ICCV*
 
 - Guided Curriculum Model Adaptation and Uncertainty-Aware Evaluation for Semantic Nighttime Image Segmentation.
   [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sakaridis_Guided_Curriculum_Model_Adaptation_and_Uncertainty-Aware_Evaluation_for_Semantic_Nighttime_ICCV_2019_paper.pdf) [[code]](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/) *ICCV*
