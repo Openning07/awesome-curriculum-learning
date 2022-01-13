@@ -84,14 +84,14 @@ Markdown format:
 - Co-saliency detection via a self-paced multiple-instance learning framework.
   [[link]](https://ieeexplore.ieee.org/abstract/document/7469327) *TPAMI*
 
+- A Self-Paced Regularization Framework for Multi-Label Learning.
+  [[pdf]](https://arxiv.org/pdf/1603.06708.pdf) *TNNLS*
+
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf) *ICML*
   - "Sort the training examples based on the *performance* of a pre-trained network on a larger dataset,
     and then finetune the model to the dataset at hand."
-
-- Self-Paced Deep Learning for Weakly Supervised Object Detection.
-  [[pdf]](https://arxiv.org/pdf/1605.07651.pdf) *TPAMI*
   
 - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks.
   [[pdf]](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf) [[code]](https://github.com/google/mentornet) *ICML*
@@ -102,19 +102,25 @@ Markdown format:
 - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images.
   [[pdf]](https://arxiv.org/pdf/1808.01097.pdf) [[code]](https://github.com/MalongTech/research-curriculumnet) *ECCV*
 
-- Unsupervised Feature Selection by Self-Paced Learning Regularization.
-  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302782) *Pattern Recognition Letters*
-
-- Learning to Teach with Dynamic Loss Functions.
-  [[pdf]](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf) *NeurIPS*
-  - "A good teacher not only provides his/her students with qualified teaching materials (e.g., textbooks), but also sets up appropriate learning objectives (e.g., course projects and exams) considering different situations of a student."
-
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation. `Gen`
   [[pdf]](https://openreview.net/forum?id=Hk99zCeAb&noteId=Hk99zCeAb) [[code]](https://github.com/tkarras/progressive_growing_of_gans) *ICLR*
   - "The key idea is to grow both the generator and discriminator progressively: starting from a low resolution, we add new layers that model increasingly fine details as training progresses. This both speeds the training up and greatly stabilizes it, allowing us to produce images of unprecedented quality."
 <p align="center">
   <img src="https://pic1.zhimg.com/80/v2-fdaeb2fb88c40b315420b89c96460105_1440w.jpg?source=1940ef5c" alt="Progressive growing of GANs" width="60%">
 </p>
+
+- Minimax curriculum learning: Machine teaching with desirable difficulties and scheduled diversity.
+  [[pdf]](https://openreview.net/pdf?id=BywyFQlAW) *ICLR*
+
+- Learning to Teach with Dynamic Loss Functions.
+  [[pdf]](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf) *NeurIPS*
+  - "A good teacher not only provides his/her students with qualified teaching materials (e.g., textbooks), but also sets up appropriate learning objectives (e.g., course projects and exams) considering different situations of a student."
+
+- Self-Paced Deep Learning for Weakly Supervised Object Detection.
+  [[pdf]](https://arxiv.org/pdf/1605.07651.pdf) *TPAMI*
+
+- Unsupervised Feature Selection by Self-Paced Learning Regularization.
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302782) *Pattern Recognition Letters*
 
 ### 2019
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation.
@@ -162,6 +168,10 @@ Markdown format:
 <p align="center">
   <img src="https://bair.berkeley.edu/static/blog/ocda/figure_4.png" alt="OCDA" width="65%">
 </p>
+
+- Curricularface: adaptive curriculum learning loss for deep face recognition.
+  [[pdf]](https://arxiv.org/pdf/2004.00288.pdf) [[code]](https://github.com/HuangYG123/CurricularFace) *CVPR*
+  - "our CurricularFace adaptively adjusts the relative importance of easy and hard samples during different training stages. In each stage, different samples are assigned with different importance according to their corresponding difficultness."
 
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation.
   [[pdf]](https://arxiv.org/pdf/2007.01261v1.pdf)[[code]](https://github.com/LoyoYang/CMSS) *ECCV*
