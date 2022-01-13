@@ -44,12 +44,23 @@ Markdown format:
 - Learning the Easy Things First: Self-Paced Visual Category Discovery.
   [[pdf]](https://vision.cs.utexas.edu/projects/easiness/easiness_cvpr2011.pdf) *CVPR*
 
+### 2014
+- Easy Samples First: Self-paced Reranking for Zero-Example Multimedia Search.
+  [[pdf]](http://www.cs.cmu.edu/~lujiang/camera_ready_papers/ACM_MM_fp_2014.pdf) *ACM MM*
+
 ### 2015
 - Self-paced Curriculum Learning.
   [[pdf]](http://www.cs.cmu.edu/~lujiang/camera_ready_papers/AAAI_SPCL_2015.pdf) *AAAI*
 
 - Curriculum Learning of Multiple Tasks.
   [[pdf]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Pentina_Curriculum_Learning_of_2015_CVPR_paper.pdf) *CVPR*
+
+- A Self-paced Multiple-instance Learning Framework for Co-saliency Detection.
+  [[pdf]](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhang_A_Self-Paced_Multiple-Instance_ICCV_2015_paper.pdf) *ICCV*
+
+### 2016
+- Multi-modal Curriculum Learning for Semi-supervised Image Classification.
+  [[pdf]](https://www.dcs.bbk.ac.uk/~sjmaybank/MultiModal.pdf) *TIP*
 
 ### 2017
 - Self-Paced Learning: An Implicit Regularization Perspective.
@@ -64,8 +75,14 @@ Markdown format:
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes.
   [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[code]](https://github.com/YangZhang4065/AdaptationSeg) *ICCV*
 
+- Self-Paced Co-training.
+  [[pdf]](http://proceedings.mlr.press/v70/ma17b/ma17b.pdf) [[code]](https://github.com/Flowerfan/Open-Reid) *ICML*
+
 - Active Self-Paced Learning for Cost-Effective and Progressive Face Identification.
   [[pdf]](https://arxiv.org/pdf/1701.03555.pdf) [[code]](https://github.com/kezewang/ASPL) *TPAMI*
+
+- Co-saliency detection via a self-paced multiple-instance learning framework.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/7469327) *TPAMI*
 
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
@@ -206,6 +223,9 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://jmlr.org/papers/volume21/20-212/20-212.pdf) *JMLR*
 
 ### 2021
+- Curriculum Labeling: Revisiting Pseudo-Labeling for Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2001.06001.pdf) [[code]](https://github.com/uvavision/Curriculum-Labeling) *AAAI*
+
 - Robust Curriculum Learning: from clean label detection to noisy label self-correction.
   [[pdf]](https://openreview.net/pdf?id=lmTWnm3coJJ) [[online review]](https://openreview.net/forum?id=lmTWnm3coJJ) *ICLR*
   - "Robust curriculum learning (RoCL) improves noisy label learning by periodical transitions from supervised learning of clean labeled data to self-supervision of wrongly-labeled data, where the data are selected according to training dynamics."
