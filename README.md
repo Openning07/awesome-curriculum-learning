@@ -64,6 +64,9 @@ Markdown format:
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes.
   [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[code]](https://github.com/YangZhang4065/AdaptationSeg) *ICCV*
 
+- Active Self-Paced Learning for Cost-Effective and Progressive Face Identification.
+  [[pdf]](https://arxiv.org/pdf/1701.03555.pdf) [[code]](https://github.com/kezewang/ASPL) *TPAMI*
+
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf) *ICML*
