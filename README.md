@@ -100,6 +100,12 @@ Markdown format:
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation.
   [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf) [[code]](https://github.com/thuml/TCL) *AAAI*
 
+- Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf) *CVPR*
+
+- Local to Global Learning: Gradually Adding Classes for Training Deep Neural Networks.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Local_to_Global_Learning_Gradually_Adding_Classes_for_Training_Deep_CVPR_2019_paper.pdf) [[code]](https://github.com/piratehao/Local-to-Global-Learning-for-DNNs) *CVPR*
+
 - Dynamic Curriculum Learning for Imbalanced Data Classification.
   [[pdf]](https://arxiv.org/pdf/1901.06783.pdf) [[simple demo]](https://github.com/apeterswu/L2T_loss) *ICCV*
 
@@ -109,14 +115,14 @@ Markdown format:
 - On The Power of Curriculum Learning in Training Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1904.03626.pdf) *ICML*
 
-- Balanced Self-Paced Learning for Generative Adversarial Clustering Network.
-  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf) *CVPR*
-
 - Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum.
   [[pdf]](https://papers.nips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf) [[code]](https://github.com/apple/ml-data-parameters) *NeurIPS*
 
 -Leveraging prior-knowledge for weakly supervised object detection under a collaborative self-paced curriculum learning framework.
   [[link]](https://openreview.net/forum?id=Jv2tq4Opli) *IJCV*
+
+- Curriculum Model Adaptation with Synthetic and Real Data for Semantic Foggy Scene Understanding.
+  [[pdf]](https://arxiv.org/pdf/1901.01415.pdf) *IJCV*
 
 ### 2020
 - Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search.
