@@ -46,8 +46,11 @@ Markdown format:
   [[pdf]](https://vision.cs.utexas.edu/projects/easiness/easiness_cvpr2011.pdf) *CVPR*
 
 ### 2015
-- Curriculum Learning.
-  [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14374/14349) *AAAI*
+- Self-paced Curriculum Learning.
+  [[pdf]](http://www.cs.cmu.edu/~lujiang/camera_ready_papers/AAAI_SPCL_2015.pdf) *AAAI*
+
+- Curriculum Learning of Multiple Tasks.
+  [[pdf]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Pentina_Curriculum_Learning_of_2015_CVPR_paper.pdf) *CVPR*
 
 ### 2017
 - Self-Paced Learning: An Implicit Regularization Perspective.
@@ -152,6 +155,9 @@ Markdown format:
   - "The idea is to use a probability distribution over classes as target label, where the class probabilities reflect the similarity to the true class. Gradually, this label
 representation is shifted towards the standard one-hot-encoding."
 
+- Multi-Task Curriculum Framework for Open-Set Semi-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.11330.pdf) [[code]](https://github.com/YU1ut/Multi-Task-Curriculum-Framework-for-Open-Set-SSL) *ECCV*
+
 - Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum.
   [[pdf]](https://arxiv.org/abs/2004.08514) [[code]](https://github.com/voldemortX/DST-CBC) *arXiv 2004.08514*
   
@@ -181,6 +187,9 @@ representation is shifted towards the standard one-hot-encoding."
 
 - Self-Paced Deep Reinforcement Learning.
  [[pdf]](https://papers.nips.cc/paper/2020/hash/68a9750337a418a86fe06c1991a1d64c-Abstract.html) *NeurIPS*
+ 
+- SuperLoss: A Generic Loss for Robust Curriculum Learning.
+  [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2cfa8f9e50e0f510ede9d12338a5f564-Paper.pdf) [[code]](https://github.com/AlanChou/Super-Loss) *NeurIPS*
 
 ### 2021
 - Robust Curriculum Learning: from clean label detection to noisy label self-correction.
