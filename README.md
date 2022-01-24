@@ -291,3 +291,8 @@ representation is shifted towards the standard one-hot-encoding."
 - Self-Paced Contrastive Learning for Semi-Supervised Medical Image Segmentation with Meta-labels.
   [[pdf]](https://proceedings.neurips.cc/paper/2021/file/8b5c8441a8ff8e151b191c53c1842a38-Paper.pdf) *NeurIPS*
   - "A self-paced learning strategy exploiting the weak annotations is proposed to further help the learning process and discriminate useful labels from noise."
+
+### 2022
+- Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.
+  [[pdf]](https://arxiv.org/pdf/2201.08613.pdf) [[open review]](https://openreview.net/forum?id=6Q52pZ-Th7N) *ICLR*
+  - "We propose to automatically select reliable pseudo-labeled samples with a series of dynamic thresholds, which constitutes a learning curriculum."
