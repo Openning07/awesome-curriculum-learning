@@ -87,6 +87,9 @@ Markdown format:
 - A Self-Paced Regularization Framework for Multi-Label Learning.
   [[pdf]](https://arxiv.org/pdf/1603.06708.pdf) *TNNLS*
 
+- Reverse Curriculum Generation for Reinforcement Learning.
+  [[https://arxiv.org/pdf/1707.05300.pdf]] *CoRL*
+
 ### 2018
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks.
   [[pdf]](https://arxiv.org/pdf/1802.03796.pdf) *ICML*
