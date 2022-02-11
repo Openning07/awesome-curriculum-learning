@@ -296,3 +296,6 @@ representation is shifted towards the standard one-hot-encoding."
 - Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.
   [[pdf]](https://arxiv.org/pdf/2201.08613.pdf) [[open review]](https://openreview.net/forum?id=6Q52pZ-Th7N) *ICLR*
   - "We propose to automatically select reliable pseudo-labeled samples with a series of dynamic thresholds, which constitutes a learning curriculum."
+
+- C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks.
+  [[pdf]](https://openreview.net/pdf?id=K2JfSnLBD9) [[open review]](https://openreview.net/forum?id=K2JfSnLBD9) *ICLR*
