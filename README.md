@@ -26,10 +26,10 @@ Markdown format:
 
 ### Mainstreams of curriculum learning
 
-|  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |    `Other`    |
-|:----------------:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-----------:|
-|  Item  | Detection | Semantic | Image Classification | Transfer Learning |  Generation  | other types |
-|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  |  -  |
+|  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |   `RL`  |    `Other`    |
+|:-----:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-------:|:-------------:|
+| Item  |    Detection     | Semantic | Classification | Transfer Learning |  Generation  | Reinforcement Learning | others |
+|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  | exploit V.S. explore |  -  |
 
 ### SURVEY
 - Curriculum Learning: A Survey. *arxiv 2101.10382*
