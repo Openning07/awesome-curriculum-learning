@@ -29,7 +29,7 @@ Markdown format:
 |  Tag  |        `Det`     |           `Seg`       |         `Cls`        |      `Trans`      |      `Gen`   |   `RL`  |    `Other`    |
 |:-----:|:----------------:|:---------------------:|:--------------------:|:-----------------:|:------------:|:-------:|:-------------:|
 | Item  |    Detection     | Semantic | Classification | Transfer Learning |  Generation  | Reinforcement Learning | others |
-|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise | long-tail, domain-shift |  collapose  | exploit V.S. explore |  -  |
+|  Issues (e.g.,)  | long-tail | imbalance | imbalance, noise label | long-tail, domain-shift |  mode collapose  | exploit V.S. explore |  -  |
 
 ### SURVEY
 - Curriculum Learning: A Survey. *arxiv 2101.10382*
@@ -251,13 +251,13 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://openreview.net/pdf?id=tW4QEInpni) *ICLR* (oral)
   - "We find that for standard benchmark datasets, curricula have only marginal benefits, and that randomly ordered samples perform as well or better than curricula and anti-curricula, suggesting that any benefit is entirely due to the dynamic training set size. ... Our experiments demonstrate that curriculum, but not anti-curriculum or random ordering can indeed improve the performance either with limited training time budget or in the existence of noisy data."
 
-- Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation.
+- Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation. `TL`
   [[pdf]](https://arxiv.org/pdf/2104.00808.pdf) [[code]](https://github.com/Evgeneus/Graph-Domain-Adaptaion) *CVPR*
 <p align="center">
   <img src="https://github.com/Evgeneus/Graph-Domain-Adaptaion/blob/master/data/pipeline.png" alt="Curriculum Graph Co-Teaching" width="80%">
 </p>
 
-- Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment.
+- Unsupervised Curriculum Domain Adaptation for No-Reference Video Quality Assessment. `Cls`
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Unsupervised_Curriculum_Domain_Adaptation_for_No-Reference_Video_Quality_Assessment_ICCV_2021_paper.pdf) [[code]](https://github.com/cpf0079/UCDA) *ICCV*
 
 - Adaptive Curriculum Learning.
@@ -272,7 +272,7 @@ representation is shifted towards the standard one-hot-encoding."
   <img src="https://github.com/flowersteam/TeachMyAgent/blob/master/TeachMyAgent/graphics/readme_graphics/global_schema.png" alt="TechMyAgent" width="52%">
 </p>
 
-- Self-Paced Context Evaluation for Contextual Reinforcement Learning.
+- Self-Paced Context Evaluation for Contextual Reinforcement Learning.  `RL`
   [[pdf]](https://arxiv.org/pdf/2106.05110.pdf) *ICML*
   - "To improve sample efficiency for learning on such instances of a problem domain, we present Self-Paced Context Evaluation (SPaCE). Based on self-paced learning, \spc automatically generates \task curricula online with little computational overhead. To this end, SPaCE leverages information contained in state values during training to accelerate and improve training performance as well as generalization capabilities to new instances from the same problem domain."
 
@@ -282,7 +282,7 @@ representation is shifted towards the standard one-hot-encoding."
   <img src="https://github.com/tianyizhou/DoCL/raw/main/docl_aistats2021_thumbnail.png" alt="DoCL" width="52%">
 </p>
 
-- FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling.
+- FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling. `Cls`
   [[pdf]](https://arxiv.org/pdf/2110.08263.pdf) [[code]](https://github.com/torchssl/torchssl) *NeurIPS*
 
 - Learning with Noisy Correspondence for Cross-modal Matching.
@@ -296,11 +296,11 @@ representation is shifted towards the standard one-hot-encoding."
   - "A self-paced learning strategy exploiting the weak annotations is proposed to further help the learning process and discriminate useful labels from noise."
 
 ### 2022
-- Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.
+- Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.  `Seg`
   [[pdf]](https://arxiv.org/pdf/2201.08613.pdf) [[open review]](https://openreview.net/forum?id=6Q52pZ-Th7N) *ICLR*
   - "We propose to automatically select reliable pseudo-labeled samples with a series of dynamic thresholds, which constitutes a learning curriculum."
 
-- C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks.
+- C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks. `RL`
   [[pdf]](https://openreview.net/pdf?id=K2JfSnLBD9) [[open review]](https://openreview.net/forum?id=K2JfSnLBD9) *ICLR*
 
 - Curriculum learning as a tool to uncover learning principles in the brain.
@@ -309,5 +309,5 @@ representation is shifted towards the standard one-hot-encoding."
 - It Takes Four to Tango: Multiagent Self Play for Automatic Curriculum Generation.
   [[pdf]](https://openreview.net/pdf?id=q4tZR1Y-UIs) [[open review]](https://openreview.net/forum?id=q4tZR1Y-UIs) *ICLR*
   
-- Boosted Curriculum Reinforcement Learning.
+- Boosted Curriculum Reinforcement Learning. `RL`
   [[pdf]](https://openreview.net/pdf?id=anbBFlX1tJ1) [[open review]](https://openreview.net/forum?id=anbBFlX1tJ1) *ICLR*
