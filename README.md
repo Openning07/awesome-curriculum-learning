@@ -302,3 +302,12 @@ representation is shifted towards the standard one-hot-encoding."
 
 - C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks.
   [[pdf]](https://openreview.net/pdf?id=K2JfSnLBD9) [[open review]](https://openreview.net/forum?id=K2JfSnLBD9) *ICLR*
+
+- Curriculum learning as a tool to uncover learning principles in the brain.
+  [[pdf]](https://openreview.net/pdf?id=TpJMvo0_pu-) [[open review]](https://openreview.net/forum?id=TpJMvo0_pu-) *ICLR*
+  
+- It Takes Four to Tango: Multiagent Self Play for Automatic Curriculum Generation.
+  [[pdf]](https://openreview.net/pdf?id=q4tZR1Y-UIs) [[open review]](https://openreview.net/forum?id=q4tZR1Y-UIs) *ICLR*
+  
+- Boosted Curriculum Reinforcement Learning.
+  [[pdf]](https://openreview.net/pdf?id=anbBFlX1tJ1) [[open review]](https://openreview.net/forum?id=anbBFlX1tJ1) *ICLR*
