@@ -311,3 +311,7 @@ representation is shifted towards the standard one-hot-encoding."
   
 - Boosted Curriculum Reinforcement Learning. `RL`
   [[pdf]](https://openreview.net/pdf?id=anbBFlX1tJ1) [[open review]](https://openreview.net/forum?id=anbBFlX1tJ1) *ICLR*
+
+- ST++: Make Self-Training Work Better for Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/pdf/2106.05095.pdf) [[code]](https://github.com/LiheYoung/ST-PlusPlus) *CVPR*
+  - "propose a selective re-training scheme via prioritizing reliable unlabeled samples to safely exploit the whole unlabeled set in an easy-to-hard curriculum learning manner."
