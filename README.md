@@ -295,6 +295,10 @@ representation is shifted towards the standard one-hot-encoding."
   [[pdf]](https://proceedings.neurips.cc/paper/2021/file/8b5c8441a8ff8e151b191c53c1842a38-Paper.pdf) *NeurIPS*
   - "A self-paced learning strategy exploiting the weak annotations is proposed to further help the learning process and discriminate useful labels from noise."
 
+- Curriculum Learning for Vision-and-Language Navigation.
+  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/6f0442558302a6ededff195daf67f79b-Paper.pdf) *NeurIPS*
+  - "We propose a novel curriculum- based training paradigm for VLN tasks that can balance human prior knowledge and agent learning progress about training samples."
+
 ### 2022
 - Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.  `Seg`
   [[pdf]](https://arxiv.org/pdf/2201.08613.pdf) [[open review]](https://openreview.net/forum?id=6Q52pZ-Th7N) *ICLR*
