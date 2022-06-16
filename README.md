@@ -319,3 +319,7 @@ representation is shifted towards the standard one-hot-encoding."
 - ST++: Make Self-Training Work Better for Semi-Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2106.05095.pdf) [[code]](https://github.com/LiheYoung/ST-PlusPlus) *CVPR*
   - "propose a selective re-training scheme via prioritizing reliable unlabeled samples to safely exploit the whole unlabeled set in an easy-to-hard curriculum learning manner."
+
+- Robust Cross-Modal Representation Learning with Progressive Self-Distillation.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Andonian_Robust_Cross-Modal_Representation_Learning_With_Progressive_Self-Distillation_CVPR_2022_paper.pdf) *CVPR*
+  - "The learning objective of vision-language approach of CLIP does not effectively account for the noisy many-to-many correspondences found in web-harvested image captioning datasets. To address this challenge, we introduce a novel training framework based on cross-modal contrastive learning that uses progressive self-distillation and soft image-text alignments to more efficiently learn robust representations from noisy data."
