@@ -300,6 +300,10 @@ representation is shifted towards the standard one-hot-encoding."
   - "We propose a novel curriculum- based training paradigm for VLN tasks that can balance human prior knowledge and agent learning progress about training samples."
 
 ### 2022
+- Characterizing and overcoming the greedy nature of learning in multi-modal deep neural networks.
+  [[pdf]](https://arxiv.org/pdf/2202.05306.pdf) [[code]](https://github.com/nyukat/greedy_multimodal_learning) *ICML*
+  - "We hypothesize that due to the greedy nature of learning in multi-modal deep neural networks, these models tend to rely on just one modality while under-fitting the other modalities. ... We propose an algorithm to balance the conditional learning speeds between modalities during training and demonstrate that it indeed addresses the issue of greedy learning."
+
 - Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization.  `Seg`
   [[pdf]](https://arxiv.org/pdf/2201.08613.pdf) [[open review]](https://openreview.net/forum?id=6Q52pZ-Th7N) *ICLR*
   - "We propose to automatically select reliable pseudo-labeled samples with a series of dynamic thresholds, which constitutes a learning curriculum."
