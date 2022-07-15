@@ -331,13 +331,13 @@ Markdown format:
   [[ICML]](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
   
 - Curriculum Reinforcement Learning via Constrained Optimal Transport.
-  [[ICML]](https://proceedings.mlr.press/v162/klink22a/klink22a.pdf)
+  [[ICML]](https://proceedings.mlr.press/v162/klink22a/klink22a.pdf) [[code]](https://github.com/psclklnk/currot)
   
 - Evolving Curricula with Regret-Based Environment Design.
-  [[ICML]](https://proceedings.mlr.press/v162/parker-holder22a/parker-holder22a.pdf)
+  [[ICML]](https://proceedings.mlr.press/v162/parker-holder22a/parker-holder22a.pdf) [[project]](https://accelagent.github.io/)
   
 - Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum.
-  [[ICML]](https://proceedings.mlr.press/v162/wu22k/wu22k.pdf)
+  [[ICML]](https://proceedings.mlr.press/v162/wu22k/wu22k.pdf) [[code]](https://github.com/jlwu002/BCL)
 
 - On the Statistical Benefits of Curriculum Learning.
   [[ICML]](https://proceedings.mlr.press/v162/xu22i/xu22i.pdf)
