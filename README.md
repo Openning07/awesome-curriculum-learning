@@ -326,3 +326,18 @@ Markdown format:
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation.
   [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Andonian_Robust_Cross-Modal_Representation_Learning_With_Progressive_Self-Distillation_CVPR_2022_paper.pdf)
   - "The learning objective of vision-language approach of CLIP does not effectively account for the noisy many-to-many correspondences found in web-harvested image captioning datasets. To address this challenge, we introduce a novel training framework based on cross-modal contrastive learning that uses progressive self-distillation and soft image-text alignments to more efficiently learn robust representations from noisy data."
+
+- EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning.
+  [[ICML]](https://proceedings.mlr.press/v162/ao22a/ao22a.pdf)
+  
+- Curriculum Reinforcement Learning via Constrained Optimal Transport.
+  [[ICML]](https://proceedings.mlr.press/v162/klink22a/klink22a.pdf)
+  
+- Evolving Curricula with Regret-Based Environment Design.
+  [[ICML]](https://proceedings.mlr.press/v162/parker-holder22a/parker-holder22a.pdf)
+  
+- Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum.
+  [[ICML]](https://proceedings.mlr.press/v162/wu22k/wu22k.pdf)
+
+- On the Statistical Benefits of Curriculum Learning.
+  [[ICML]](https://proceedings.mlr.press/v162/xu22i/xu22i.pdf)
