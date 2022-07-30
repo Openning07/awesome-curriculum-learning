@@ -341,3 +341,7 @@ Markdown format:
 
 - On the Statistical Benefits of Curriculum Learning.
   [[ICML]](https://proceedings.mlr.press/v162/xu22i/xu22i.pdf)
+
+- CLOSE: Curriculum Learning On the Sharing Extent Towards Better One-shot NAS.
+  [[ECCV]](https://arxiv.org/pdf/2207.07868.pdf) [[code]](https://github.com/walkerning/aw_nas)
+  - "We propose to apply Curriculum Learning On Sharing Extent (CLOSE) to train the supernet both efficiently and effectively. Specifically, we train the supernet with a large sharing extent (an easier curriculum) at the beginning and gradually decrease the sharing extent of the supernet (a harder curriculum)."
